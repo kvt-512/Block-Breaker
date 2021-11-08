@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 52568e19bb1fa7d46b94e7100ca2654e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroyBlockAudio: {instanceID: 0}
+  - blockSparkelVFX: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

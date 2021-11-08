@@ -1,0 +1,176 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 8029 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\game-development-workspace\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/repos/unity2d/first-project/Block breaker
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50790
+Successfully changed project path to: D:/repos/unity2d/first-project/Block breaker
+D:/repos/unity2d/first-project/Block breaker
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/game-development-workspace/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/repos/unity2d/first-project/Block breaker/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6663
+Initialize mono
+Mono path[0] = 'C:/game-development-workspace/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/game-development-workspace/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/game-development-workspace/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56400
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/game-development-workspace/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/game-development-workspace/2020.3.4f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/game-development-workspace/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/game-development-workspace/2020.3.4f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.003596 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 48.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.420 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 40.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.131 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1828 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.2 MB.
+System memory in use after: 87.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 2.791200 ms (FindLiveObjects: 0.379800 ms CreateObjectMapping: 0.429800 ms MarkObjects: 1.753700 ms  DeleteObjects: 0.226500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials/Particle Star.png
+  artifactKey: Guid(76dd80b79db8dac44a7c977b8a56cfd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Particle Star.png using Guid(76dd80b79db8dac44a7c977b8a56cfd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2adf9d85158a39b1e5b3b2844c954d6') in 0.258279 seconds
+  Import took 0.261849 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.4 MB.
+System memory in use after: 53.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2279.
+Total: 4.531300 ms (FindLiveObjects: 0.495600 ms CreateObjectMapping: 0.286200 ms MarkObjects: 3.597400 ms  DeleteObjects: 0.150200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.507402 seconds.
+  path: Assets/Scripts/Paddle.cs
+  artifactKey: Guid(5c6a7aa067a29dc44a59c6f0f6ee88d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Paddle.cs using Guid(5c6a7aa067a29dc44a59c6f0f6ee88d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550a081e38f03422d9a7eace993c863e') in 0.018513 seconds
+  Import took 0.149295 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000668 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 2.588700 ms (FindLiveObjects: 0.256200 ms CreateObjectMapping: 0.150500 ms MarkObjects: 2.034600 ms  DeleteObjects: 0.146300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.911678 seconds.
+  path: Assets/Audio/SFX_Bounce.ogg
+  artifactKey: Guid(efb6101e6d531da4eaf87a57b1ca2ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFX_Bounce.ogg using Guid(efb6101e6d531da4eaf87a57b1ca2ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca2fd5a315c6f7adeb5dce80cf9609d') in 0.138918 seconds
+  Import took 0.142965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Audio/SFX_Click.ogg
+  artifactKey: Guid(9a180379613a58e4ea4682bc0631f99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFX_Click.ogg using Guid(9a180379613a58e4ea4682bc0631f99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1949b408708a774ddf65d6512ff6e751') in 0.027970 seconds
+  Import took 0.049487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Audio/SFX_Click_3.ogg
+  artifactKey: Guid(8b72e36f09027b54f934ef13b83f3596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFX_Click_3.ogg using Guid(8b72e36f09027b54f934ef13b83f3596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885478b2f35af95f35afae25c6018c6c') in 0.029550 seconds
+  Import took 0.033853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Audio/SFX_Bounce.ogg
+  artifactKey: Guid(efb6101e6d531da4eaf87a57b1ca2ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFX_Bounce.ogg using Guid(efb6101e6d531da4eaf87a57b1ca2ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca2fd5a315c6f7adeb5dce80cf9609d') in 0.012471 seconds
+  Import took 0.016223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Audio/SFX_Clunk.ogg
+  artifactKey: Guid(0bf0e405bd8cb8b409157043a3718b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFX_Clunk.ogg using Guid(0bf0e405bd8cb8b409157043a3718b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdecf9a6dafb1a1868a94949cee0e53b') in 0.039630 seconds
+  Import took 0.055538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Audio/SFX_Click_2.ogg
+  artifactKey: Guid(f8089b6f0353f9a4bb3e589f5848c3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/SFX_Click_2.ogg using Guid(f8089b6f0353f9a4bb3e589f5848c3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee851c0b9af2b75964293cd5725c1c7d') in 0.027381 seconds
+  Import took 0.032430 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
